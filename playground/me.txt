@@ -1,5 +1,0 @@
-{{#user}
-Name: Arif Özberk Azmak
-Skills: HTML, CSS, JS, ReactJS, RestAPI, SCSS
-Email: ozberkazmak@gmail.com
-{{/user}}
